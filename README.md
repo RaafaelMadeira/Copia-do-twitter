@@ -1,2 +1,2 @@
-# Copia-do-twitter
-Projeto 1
+# TwitterClone
+A clone of the login page of Twitter
